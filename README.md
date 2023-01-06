@@ -15,5 +15,13 @@ I made the design, layout and programming of the project.*
 - Responsive
 - List characters
 - Pagination by n°
+
+
+**Steps to run the project.:**
+
+***In visual studio code terminal write the following commands:***
+   - Clone project to local repository "git clone https://github.com/Jableed43/rick-morty-api.git"
+   - Inside root directory "npm i" to install the necessary dependencies
+   - Run project  "npm start"
       
 [Api Used](https://rickandmortyapi.com/)
