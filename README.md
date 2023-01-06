@@ -4,6 +4,8 @@
 I made the design, layout and programming of the project.*
    
 ***Technologies:***
+- Node.js
+- React.js
 - Html
 - Css
 - Font-Awesome
